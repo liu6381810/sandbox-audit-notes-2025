@@ -1,3 +1,3 @@
 # Contributing
 
-Guidelines for contributing to this sandbox audit notes repository.
+Thanks for helping improve the Sandbox Audit Notes. Please keep changes small, well-documented, and audit-friendly.
